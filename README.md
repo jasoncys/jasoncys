@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Blockchain and Data Economy.
 - 🌱 I’m currently building a historical weather app.
 - 💞️ I’m looking to collaborate on Data Economy.
-- 📫 I can be reached here: https://www.linkedin.com/in/jason-cheung-975433/
+- 📫 I can be reached here: https://x.com/JasonCheung or https://www.linkedin.com/in/jason-cheung-975433/
 
 <!---
 jasoncys/jasoncys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
