@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasoncys (Jason Cheung)
 - 👀 I’m interested in AI, Blockchain and Data Economy.
-- 🌱 I’m currently learning Ethereum.
+- 🌱 I’m currently building a historical weather app.
 - 💞️ I’m looking to collaborate on Data Economy.
 - 📫 I can be reached here: https://www.linkedin.com/in/jason-cheung-975433/
 
